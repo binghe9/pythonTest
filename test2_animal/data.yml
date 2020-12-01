@@ -1,0 +1,13 @@
+cat:
+  name: '黑猫警长'
+  color: '黑色'
+  age: 2
+  sex: 'male'
+  hair: '短毛'
+
+dog:
+  name: '金毛'
+  color: '黄色'
+  age: 6
+  sex: 'male'
+  hair: '长毛'
