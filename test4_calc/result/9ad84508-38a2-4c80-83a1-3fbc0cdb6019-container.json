@@ -1,1 +1,0 @@
-{"uuid": "62657c03-5afb-4616-ba86-878d44441b5f", "children": ["b3448a0f-d830-4097-aa8e-10974b18f0eb"], "befores": [{"name": "get_datas_divi", "status": "passed", "start": 1607260371904, "stop": 1607260371904}], "afters": [{"name": "get_datas_divi::0", "status": "passed", "start": 1607260371906, "stop": 1607260371906}], "start": 1607260371904, "stop": 1607260371906}
